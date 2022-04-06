@@ -14,4 +14,4 @@ Programming language: Python
 
 Sources : Kaggle
 
-Tools Used : Pandas, Lasso , Ridge,machine learning, matplotlib
+Tools Used : Pandas, Lasso , Ridge,machine learning, matplotlib, Seaborn
